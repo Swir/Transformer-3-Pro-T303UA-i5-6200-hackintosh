@@ -9,3 +9,5 @@ RAM: 4GB DDR3
 Display: 12.5-inch, WQHD 2,880 x 1,920, IPS LCD
 
 Storage: 256GB SSD M.2 SSD.
+
+EFI OC7.8 MONTEREY 12.3
