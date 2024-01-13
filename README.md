@@ -3,7 +3,7 @@
 
 
 # Specs:
-|Transformer 3-Pro T303UA i5 6200 Hackintosh  Mac OS 12.3|
+|Mac OS 12.3|Transformer 3-Pro T303UA i5 6200 Hackintosh|
 | Brand | Asus |
 | --- | --- |
 | Model | T303UA |
