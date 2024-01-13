@@ -11,3 +11,8 @@
  Storage: 256GB SSD M.2 SSD.
 
  EFI OC7.8 MONTEREY 12.3
+
+OS downlads all version:
+
+https://downloaddevtools.com/fa/product/3065/free-download-apple-macos-monterey
+
