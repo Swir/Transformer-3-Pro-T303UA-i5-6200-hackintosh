@@ -1,17 +1,6 @@
 # Transformer-3-Pro-T303UA-i5-6200-Hakintosh Mac OS 12.3
-Mac OS 12.3
-
-Intel® Core™ i5-6200U Prosessor
-
-8 GB RAM
-
-500 GB SSD harddisk
-
-Intel HD Graphics 520 grafikkort
-
-12.6 " IPS 60Hz touchskjerm (2880x1920)
-
-WiFi 802.11 AC nettverkskort og Bluetooth
-
-Multiformat minnekortleser
-
+Processor: 2.3GHz Intel Core i5-6200U (quad-core, up to 2.8GHz with Turbo Boost)
+Graphics: Intel HD Graphics 520.
+RAM: 4GB DDR3.
+Display: 12.5-inch, WQHD 2,880 x 1,920, IPS LCD.
+Storage: 256GB SSD M.2 SSD.
