@@ -1,18 +1,16 @@
 # Transformer 3-Pro T303UA i5 6200 Hackintosh  Mac OS 12.3
 
- Processor: 2.3GHz Intel Core i5-6200U (quad-core, up to 2.8GHz with Turbo Boost)
 
- Graphics: Intel HD Graphics 520
 
- RAM: 4GB DDR3
-
- Display: 12.5-inch, WQHD 2,880 x 1,920, IPS LCD
-
- Storage: 256GB SSD M.2 SSD.
-
- EFI OC7.8 MONTEREY 12.3
-
+# Specs:
+|ransformer 3-Pro T303UA i5 6200 Hackintosh  Mac OS 12.3|
+| Brand | Asus |
+| --- | --- |
+| Model | T303UA |
+| Processor | Intel core i5-6200U @2.30ghz|
+| Ram | 4GB DDR3 |
+| GPU | Intel hd graphics 520 |
+|EFI OC7.8 MONTEREY 12.3|
 OS downlads all version:
-
 https://downloaddevtools.com/fa/product/3065/free-download-apple-macos-monterey
 
