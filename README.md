@@ -11,6 +11,6 @@
 | GPU | Intel hd graphics 520 |
 |EFI| OC7.8 MONTEREY 12.3|
 |OS downlads all version:|https://downloaddevtools.com/fa/product/3065/free-download-apple-macos-monterey|
-|Full Download|https://www.upload.ee/files/18113847/asus_open.zip.html|
+|Full Download EFI|https://www.upload.ee/files/18113847/asus_open.zip.html|
 
 
